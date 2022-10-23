@@ -102,6 +102,4 @@ class ViewController: UIViewController {
         
         imageView.frame = CGRect(x: Float64(randomX), y: Float64(randomY), width: imageView.frame.size.width, height: imageView.frame.size.height)
     }
-
-
 }
